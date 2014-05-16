@@ -1,0 +1,17 @@
+/*stylesheets css of the page-game-static
+
+Author:Caio Cutrim;
+*/
+
+
+/*the reset css page of site*/
+*{
+	margin: 0;
+	outline: none;
+	padding: 0;
+}
+canvas{
+	position: relative;
+	left: 50%;
+	margin-left: -500px;
+}
